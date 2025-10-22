@@ -108,8 +108,8 @@ export default function Portfolio() {
       <section id="about" className="py-24 px-6 max-w-4xl mx-auto">
         <h3 className="text-3xl font-bold mb-6 text-center">About Me</h3>
         <p className="text-lg leading-relaxed text-center">
-          I’m a versatile software engineer with hands-on experience across the software lifecycle — from development and testing to deployment and Agile leadership.
-          My technical toolkit spans Python, JavaScript, SQL, Docker, and AWS. I’m passionate about crafting efficient, reliable, and user-focused solutions.
+          Versatile software engineer with hands-on experience across the software lifecycle — from development and testing to deployment and Agile leadership.
+          My technical toolkit spans Python, JavaScript, SQL, Docker, and AWS. Passionate about crafting efficient, reliable, and user-focused solutions.
         </p>
       </section>
 
@@ -140,7 +140,7 @@ export default function Portfolio() {
 
       <section id="contact" className="py-24 px-6 bg-gray-100 dark:bg-slate-800 text-center">
         <h3 className="text-3xl font-bold mb-6">Contact</h3>
-        <p className="mb-4">I’m open to software development, QA, and full-stack opportunities.</p>
+        <p className="mb-4">Open to software development, QA, and full-stack opportunities.</p>
         <p>Email: <a href="mailto:jeanmanuel466@gmail.com" className="text-blue-500 hover:underline">jeanmanuel466@gmail.com</a></p>
         <div className="flex justify-center gap-6 mt-6">
           <a href="https://github.com/jramos-tech" className="hover:text-blue-500">GitHub</a>
